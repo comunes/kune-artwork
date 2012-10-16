@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.46875"
-     inkscape:cx="267.80894"
-     inkscape:cy="948.09066"
+     inkscape:cx="227.7086"
+     inkscape:cy="979.38939"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1666,9 +1666,9 @@
       <path
          inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
-         inkscape:export-filename="/home/vjrj/proyectos/dev/iconic-comunes/vector/original/chat_new.png"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/online.png"
          sodipodi:type="arc"
-         style="color:#000000;fill:#44ff00;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:3.99993324;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#5fff27;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:3.99993323999999983;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path4808"
          sodipodi:cx="26"
          sodipodi:cy="30"
@@ -1726,13 +1726,13 @@
        inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/offline.png"
        id="g4826"
        transform="matrix(0.80001338,0,0,0.80001339,199.99898,-74.13063)"
-       style="fill:#b3b3b3;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.24997902000000005;stroke-opacity:1">
+       style="fill:#808080;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.24997902000000005;stroke-opacity:1">
       <path
          inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
          inkscape:export-filename="/home/vjrj/proyectos/dev/iconic-comunes/vector/original/chat_new.png"
          sodipodi:type="arc"
-         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:3.99993323999999983;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:3.99993323999999983;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path4828"
          sodipodi:cx="26"
          sodipodi:cy="30"
