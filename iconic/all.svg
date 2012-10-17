@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.46875"
-     inkscape:cx="227.7086"
-     inkscape:cy="979.38939"
+     inkscape:zoom="0.87001049"
+     inkscape:cx="-30.172537"
+     inkscape:cy="739.73783"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1078"
      inkscape:window-height="919"
      inkscape:window-x="0"
-     inkscape:window-y="972"
+     inkscape:window-y="943"
      inkscape:window-maximized="0"
      inkscape:snap-grids="true"
      inkscape:snap-bbox="true"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1540,98 +1540,6 @@
          x="109.14941"
          y="30.220581"
          id="tspan11075-0">white</tspan></text>
-    <use
-       height="1052.3622"
-       width="744.09448"
-       transform="translate(50,40)"
-       id="use11287"
-       xlink:href="#g10776"
-       y="0"
-       x="0" />
-    <g
-       inkscape:export-ydpi="45"
-       inkscape:export-xdpi="45"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-g.png"
-       transform="translate(0,70.000001)"
-       id="g11289">
-      <rect
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect11291"
-         width="9.1984463"
-         height="25.323557"
-         x="13.541537"
-         y="363.95392" />
-      <rect
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect11293"
-         width="26.767767"
-         height="18.040739"
-         x="13.232211"
-         y="371.67773" />
-      <path
-         style="fill:#4d4d4d;display:inline"
-         d="m 10,360.36218 c 0,10.66667 0,21.33333 0,32 10.66667,0 21.33333,0 32,0 3.8e-4,-10.66667 8.2e-4,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z m 4,3.98832 c 2.57307,0.0163 5.1453,0.1102 7.71875,0.0934 0.0104,2.6485 0.0208,5.29699 0.0312,7.94548 5.41667,-0.0207 10.83333,-0.0416 16.25,-0.0623 0,5.34891 0,10.69783 0,16.04674 -8.47194,-0.0639 -16.17572,0.01 -24,0 3e-5,-8.00773 -7e-5,-16.01579 5e-5,-24.02332 z m 11,0 c 4.33333,0 8.66667,0 13,0 0,1.32943 0,2.65888 0,3.98831 -4.33333,0 -8.66667,0 -13,0 0,-1.32943 0,-2.65888 0,-3.98831 z"
-         id="path11295"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccc" />
-    </g>
-    <use
-       inkscape:export-ydpi="45"
-       inkscape:export-xdpi="45"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-add.png"
-       transform="translate(0,80)"
-       height="1052.3622"
-       width="744.09448"
-       id="use11297"
-       xlink:href="#use3920"
-       y="0"
-       x="0" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g10776"
-       id="use11299"
-       transform="translate(50,80)"
-       width="744.09448"
-       height="1052.3622" />
-    <g
-       id="g11301"
-       transform="translate(0,110)"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-g.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
-      <rect
-         y="363.95392"
-         x="13.541537"
-         height="25.323557"
-         width="9.1984463"
-         id="rect11303"
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         y="371.67773"
-         x="13.232211"
-         height="18.040739"
-         width="26.767767"
-         id="rect11305"
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path11307"
-         d="m 10,360.36218 c 0,10.66667 0,21.33333 0,32 10.66667,0 21.33333,0 32,0 3.8e-4,-10.66667 8.2e-4,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z m 4,3.98832 c 2.57307,0.0163 5.1453,0.1102 7.71875,0.0934 0.0104,2.6485 0.0208,5.29699 0.0312,7.94548 5.41667,-0.0207 10.83333,-0.0416 16.25,-0.0623 0,5.34891 0,10.69783 0,16.04674 -8.47194,-0.0639 -16.17572,0.01 -24,0 3e-5,-8.00773 -7e-5,-16.01579 5e-5,-24.02332 z m 11,0 c 4.33333,0 8.66667,0 13,0 0,1.32943 0,2.65888 0,3.98831 -4.33333,0 -8.66667,0 -13,0 0,-1.32943 0,-2.65888 0,-3.98831 z"
-         style="fill:#4d4d4d;display:inline" />
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3920"
-       id="use11309"
-       width="744.09448"
-       height="1052.3622"
-       transform="translate(0,120)"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-add.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45" />
     <g
        id="g4812"
        inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/online.png"
@@ -1837,5 +1745,303 @@
        inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/offline.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
+    <g
+       id="g3269">
+      <rect
+         ry="0"
+         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3243"
+         width="10.734215"
+         height="25.915293"
+         x="14.265785"
+         y="433.36218" />
+      <rect
+         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3245"
+         width="24"
+         height="19.356291"
+         x="14"
+         y="440.36218" />
+      <path
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/wikis-g.png"
+         sodipodi:nodetypes="ccccsccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3239"
+         d="m 32.959625,430.38516 c 0,0 -11.978934,0 -18.966645,-0.023 0,8.01724 -3.99298,32 -3.99298,32 12.977181,0 21.462258,0 27.950848,0 3.049152,-11.99998 3.941348,-18.99932 3.977003,-21.9762 0.07215,-6.02378 0,-10.02378 0,-10.02378 z m 1.996489,27.97989 c -10.888422,0 -13.887557,0.0958 -20.484236,0.0958 1.517591,-7.09085 2.515835,-16.08439 2.994733,-24.07864 2.096314,0 1.312448,-0.02 5.504078,-0.02 0,0 0.02931,3.99997 -1.006226,7.98 4.979243,0.56828 15.972406,0.02 15.972406,0.02 -9.97e-4,2.73104 -2.980746,16.00287 -2.980755,16.00287 z m -8.348676,-20.00287 c 0.354233,-2 0.354233,-3 0.354233,-4 0.997745,0 7.48309,-3e-5 10.975198,-3e-5 0,1 0,3.00003 0,4.00003 -3.993867,0.007 -7.33563,0.02 -11.329431,0 z"
+         style="fill:#4d4d4d" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3269"
+       id="use3274"
+       transform="translate(50,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use10791"
+       id="use3276"
+       transform="translate(0,40)"
+       width="744.09448"
+       height="1052.3622" />
+    <g
+       id="g3280"
+       transform="translate(10,466.36218)" />
+    <g
+       id="g3329">
+      <polygon
+         transform="translate(10,469.36218)"
+         style="fill:#4d4d4d"
+         points="28,28 28,4 32,4 32,32 32,32 0,32 0,4 4,4 4,28 "
+         id="polygon3284" />
+      <path
+         id="rect3288"
+         d="m 28,477.375 -4,4 -4,4 4,0 0,4 0,4 4,0 0,-4 0,-4 0,-4 0,-4 z"
+         style="fill:#4d4d4d"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 18,475.36218 v -4 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 v 4 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 z"
+         id="path3298"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 30,475.36218 v -4 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 v 4 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 z"
+         id="path3300"
+         inkscape:connector-curvature="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3329"
+       id="use3335"
+       transform="translate(50,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3276"
+       id="use3337"
+       transform="translate(0,39)"
+       width="744.09448"
+       height="1052.3622" />
+    <g
+       id="g3547">
+      <g
+         id="g3339"
+         transform="translate(0,150)"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-g.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45">
+        <rect
+           y="363.95392"
+           x="13.541537"
+           height="25.323557"
+           width="9.1984463"
+           id="rect3341"
+           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="371.67773"
+           x="13.232211"
+           height="18.040739"
+           width="26.767767"
+           id="rect3343"
+           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path3345"
+           d="m 10,360.36218 c 0,10.66667 0,21.33333 0,32 10.66667,0 21.33333,0 32,0 3.8e-4,-10.66667 8.2e-4,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z m 4,3.98832 c 2.57307,0.0163 5.1453,0.1102 7.71875,0.0934 0.0104,2.6485 0.0208,5.29699 0.0312,7.94548 5.41667,-0.0207 10.83333,-0.0416 16.25,-0.0623 0,5.34891 0,10.69783 0,16.04674 -8.47194,-0.0639 -16.17572,0.01 -24,0 3e-5,-8.00773 -7e-5,-16.01579 5e-5,-24.02332 z m 11,0 c 4.33333,0 8.66667,0 13,0 0,1.32943 0,2.65888 0,3.98831 -4.33333,0 -8.66667,0 -13,0 0,-1.32943 0,-2.65888 0,-3.98831 z"
+           style="fill:#4d4d4d;display:inline" />
+      </g>
+      <g
+         id="g3347"
+         transform="matrix(0.35118282,0.35118282,-0.35118282,0.35118282,31.486019,515.804)"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45">
+        <g
+           inkscape:export-ydpi="45"
+           inkscape:export-xdpi="45"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           style="fill:#4d4d4d"
+           id="g3349" />
+        <g
+           inkscape:export-ydpi="45"
+           inkscape:export-xdpi="45"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           style="fill:#4d4d4d"
+           id="g3351">
+          <g
+             style="fill:#4d4d4d"
+             id="g3353">
+            <path
+               sodipodi:nodetypes="cccccccc"
+               inkscape:connector-curvature="0"
+               id="polygon3355"
+               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
+               style="fill:#4d4d4d"
+               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)" />
+            <path
+               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)"
+               style="fill:#4d4d4d"
+               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
+               id="path3362"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="use3443"
+       transform="translate(50,0)">
+      <g
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-g.png"
+         transform="translate(0,150)"
+         id="g3489">
+        <rect
+           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3491"
+           width="9.1984463"
+           height="25.323557"
+           x="13.541537"
+           y="363.95392" />
+        <rect
+           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3493"
+           width="26.767767"
+           height="18.040739"
+           x="13.232211"
+           y="371.67773" />
+        <path
+           style="fill:#4d4d4d;display:inline"
+           d="m 10,360.36218 c 0,10.66667 0,21.33333 0,32 10.66667,0 21.33333,0 32,0 3.8e-4,-10.66667 8.2e-4,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z m 4,3.98832 c 2.57307,0.0163 5.1453,0.1102 7.71875,0.0934 0.0104,2.6485 0.0208,5.29699 0.0312,7.94548 5.41667,-0.0207 10.83333,-0.0416 16.25,-0.0623 0,5.34891 0,10.69783 0,16.04674 -8.47194,-0.0639 -16.17572,0.01 -24,0 3e-5,-8.00773 -7e-5,-16.01579 5e-5,-24.02332 z m 11,0 c 4.33333,0 8.66667,0 13,0 0,1.32943 0,2.65888 0,3.98831 -4.33333,0 -8.66667,0 -13,0 0,-1.32943 0,-2.65888 0,-3.98831 z"
+           id="path3495"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         transform="matrix(0.35118282,0.35118282,-0.35118282,0.35118282,31.486019,515.804)"
+         id="g3497">
+        <g
+           id="g3499"
+           style="fill:#4d4d4d"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           inkscape:export-xdpi="45"
+           inkscape:export-ydpi="45" />
+        <g
+           id="g3501"
+           style="fill:#4d4d4d"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           inkscape:export-xdpi="45"
+           inkscape:export-ydpi="45">
+          <g
+             id="g3503"
+             style="fill:#4d4d4d">
+            <path
+               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)"
+               style="fill:#4d4d4d"
+               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
+               id="path3505"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccccc" />
+            <path
+               sodipodi:nodetypes="cccccccc"
+               inkscape:connector-curvature="0"
+               id="path3507"
+               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
+               style="fill:#4d4d4d"
+               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3337"
+       id="use3445"
+       transform="translate(0,40)"
+       width="744.09448"
+       height="1052.3622" />
+    <g
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+       transform="translate(10,554.51308)"
+       id="g3603"
+       style="fill:#b3b3b3;fill-opacity:1">
+      <g
+         id="g3605"
+         style="fill:#b3b3b3;fill-opacity:1"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45" />
+      <g
+         id="g3607"
+         style="fill:#b3b3b3;fill-opacity:1"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45">
+        <g
+           id="g3609"
+           style="fill:#b3b3b3;fill-opacity:1">
+          <polygon
+             style="fill:#b3b3b3;fill-opacity:1"
+             points="32,5.695 11.941,25.754 11.941,25.754 0,13.812 5.695,8.117 11.941,14.363 26.305,0 "
+             id="polygon3611" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 11.8125,552.375 c -0.983168,0.0927 -1.8167582,1.01248 -1.8125,2 l 0,28 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-28 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z m 2.1875,4 24,0 0,24 -24,0 0,-24 z"
+       id="rect3004-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3613"
+       d="m 11.8125,592.375 c -0.983168,0.0927 -1.8167582,1.01248 -1.8125,2 l 0,28 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-28 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z m 2.1875,4 24,0 0,24 -24,0 0,-24 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <g
+       style="fill:#ff5555;fill-opacity:1"
+       id="g3615"
+       transform="translate(10,594.51308)"
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45">
+      <g
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         style="fill:#ff5555;fill-opacity:1"
+         id="g3617" />
+      <g
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         style="fill:#ff5555;fill-opacity:1"
+         id="g3619">
+        <g
+           style="fill:#ff5555;fill-opacity:1"
+           id="g3621">
+          <polygon
+             id="polygon3623"
+             points="5.695,8.117 11.941,14.363 26.305,0 32,5.695 11.941,25.754 11.941,25.754 0,13.812 "
+             style="fill:#ff5555;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
