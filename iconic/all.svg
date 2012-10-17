@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87001049"
-     inkscape:cx="-30.172537"
-     inkscape:cy="739.73783"
+     inkscape:zoom="4.5267461"
+     inkscape:cx="86.5"
+     inkscape:cy="483.98718"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1976,72 +1976,81 @@
        width="744.09448"
        height="1052.3622" />
     <g
-       inkscape:export-ydpi="45"
-       inkscape:export-xdpi="45"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-       transform="translate(10,554.51308)"
-       id="g3603"
-       style="fill:#b3b3b3;fill-opacity:1">
+       id="g3691">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 11.8125,592.375 c -0.983168,0.0927 -1.8167582,1.01248 -1.8125,2 l 0,28 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-28 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z m 2.1875,4 24,0 0,24 -24,0 0,-24 z"
+         id="path3613"
+         inkscape:connector-curvature="0" />
       <g
-         id="g3605"
-         style="fill:#b3b3b3;fill-opacity:1"
-         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+         inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
-         inkscape:export-ydpi="45" />
-      <g
-         id="g3607"
-         style="fill:#b3b3b3;fill-opacity:1"
          inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-         inkscape:export-xdpi="45"
-         inkscape:export-ydpi="45">
+         transform="translate(10,594.51308)"
+         id="g3615"
+         style="fill:#ff5555;fill-opacity:1">
         <g
-           id="g3609"
-           style="fill:#b3b3b3;fill-opacity:1">
-          <polygon
-             style="fill:#b3b3b3;fill-opacity:1"
-             points="32,5.695 11.941,25.754 11.941,25.754 0,13.812 5.695,8.117 11.941,14.363 26.305,0 "
-             id="polygon3611" />
+           id="g3617"
+           style="fill:#ff5555;fill-opacity:1"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           inkscape:export-xdpi="45"
+           inkscape:export-ydpi="45" />
+        <g
+           id="g3619"
+           style="fill:#ff5555;fill-opacity:1"
+           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+           inkscape:export-xdpi="45"
+           inkscape:export-ydpi="45">
+          <g
+             id="g3621"
+             style="fill:#ff5555;fill-opacity:1">
+            <polygon
+               style="fill:#ff5555;fill-opacity:1"
+               points="5.695,8.117 11.941,14.363 26.305,0 32,5.695 11.941,25.754 11.941,25.754 0,13.812 "
+               id="polygon3623" />
+          </g>
         </g>
       </g>
     </g>
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 11.8125,552.375 c -0.983168,0.0927 -1.8167582,1.01248 -1.8125,2 l 0,28 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-28 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z m 2.1875,4 24,0 0,24 -24,0 0,-24 z"
-       id="rect3004-9"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3613"
-       d="m 11.8125,592.375 c -0.983168,0.0927 -1.8167582,1.01248 -1.8125,2 l 0,28 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-28 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z m 2.1875,4 24,0 0,24 -24,0 0,-24 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <g
-       style="fill:#ff5555;fill-opacity:1"
-       id="g3615"
-       transform="translate(10,594.51308)"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+       id="g3687"
+       transform="translate(-50,0)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3657"
+         d="m 63,554.375 0,10.9375 2.6875,-2.6875 6.25,6.25 14.375,-14.375 3.6875,3.71875 0,-3.84375 -27,0 z m 27,7.84375 -18.0625,18.0625 L 63,571.3125 l 0,11.0625 27,0 0,-20.15625 z"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path3645"
+         d="m 61.8125,552.375 c -0.983168,0.0927 -1.816758,1.01248 -1.8125,2 l 0,13.9375 4,-4 0,-7.9375 20.4375,0 1.875,-1.875 5.6875,5.71875 0,-5.84375 c -1.05e-4,-1.04717 -0.952831,-1.9999 -2,-2 l -28,0 c -0.06245,-0.003 -0.125046,-0.003 -0.1875,0 z M 92,560.21875 l -4,4 0,16.15625 -24,0 0,-8.0625 -4,-4 0,14.0625 c 1.05e-4,1.04717 0.952831,1.9999 2,2 l 28,0 c 1.047169,-10e-5 1.999895,-0.95283 2,-2 l 0,-22.15625 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="45"
        inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
-      <g
-         inkscape:export-ydpi="45"
-         inkscape:export-xdpi="45"
-         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-         style="fill:#ff5555;fill-opacity:1"
-         id="g3617" />
-      <g
-         inkscape:export-ydpi="45"
-         inkscape:export-xdpi="45"
-         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-         style="fill:#ff5555;fill-opacity:1"
-         id="g3619">
-        <g
-           style="fill:#ff5555;fill-opacity:1"
-           id="g3621">
-          <polygon
-             id="polygon3623"
-             points="5.695,8.117 11.941,14.363 26.305,0 32,5.695 11.941,25.754 11.941,25.754 0,13.812 "
-             style="fill:#ff5555;fill-opacity:1" />
-        </g>
-      </g>
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+       style="fill:#b3b3b3;fill-opacity:1"
+       id="g3661"
+       transform="translate(110,554.51308)" />
+    <g
+       id="g3709">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(50,0)"
+         id="use3705"
+         xlink:href="#g3687"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(0,43)"
+         id="use3707"
+         xlink:href="#use3445"
+         y="0"
+         x="0" />
     </g>
   </g>
 </svg>
