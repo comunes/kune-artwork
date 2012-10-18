@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6132556"
-     inkscape:cx="275.99989"
-     inkscape:cy="633.99996"
+     inkscape:zoom="0.68132437"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2390,7 +2390,7 @@
     </g>
     <g
        id="g4080"
-       transform="translate(582,514.36228)"
+       transform="translate(261,592.36228)"
        style="fill:#4d4d4d;fill-opacity:0.99607843">
       <g
          id="Layer_1-25"
@@ -3679,6 +3679,43 @@
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/publicSpaceEnabled.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8659"
+       width="16"
+       height="2"
+       x="269"
+       y="604.36218" />
+    <rect
+       y="604.36218"
+       x="269"
+       height="2"
+       width="16"
+       id="rect8661"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g8677"
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/forbiden.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45">
+      <path
+         transform="matrix(1.4,0,0,1.4,298.4,622.56218)"
+         d="m -6,17 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="17"
+         sodipodi:cx="-16"
+         id="path8665"
+         style="color:#000000;fill:#4d4d4d;fill-opacity:0.99607843;stroke:#4d4d4d;stroke-width:2.85714293;stroke-opacity:0.99607843;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect8667"
+         width="20"
+         height="6"
+         x="266"
+         y="643.36218" />
     </g>
   </g>
 </svg>
