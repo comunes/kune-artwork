@@ -78,10 +78,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1746.7696"
-     inkscape:cy="573.42723"
-     inkscape:current-layer="g5149"
+     inkscape:zoom="0.5"
+     inkscape:cx="1823.7376"
+     inkscape:cy="448.57746"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1215"
@@ -123,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5581,6 +5581,16 @@
          x="676.19073"
          id="tspan6067"
          sodipodi:role="line">wave this!</tspan></text>
+    <rect
+       style="display:inline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
+       id="rect6719"
+       width="846"
+       height="522"
+       x="1344"
+       y="-22"
+       inkscape:export-filename="/tmp/mob-2013.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      style="display:inline"
@@ -11799,13 +11809,6 @@
          y="331.12772"
          id="tspan28763-0">Inbox search</tspan>
     </text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:17.5"
-       id="rect32151"
-       width="100"
-       height="100"
-       x="1149.7971"
-       y="331.07709" />
     <image
        style="display:inline"
        y="543.71252"
