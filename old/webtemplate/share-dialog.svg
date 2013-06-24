@@ -23,11 +23,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6092774"
-     inkscape:cx="307.03332"
-     inkscape:cy="325.08623"
+     inkscape:cx="370.57793"
+     inkscape:cy="335.33095"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,25 +65,26 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/kune/svn/trunk/img/kune-org-home-draft-def-0.1.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        sodipodi:linespacing="125%"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       y="708.05151"
+       y="714.05151"
        x="254.9856"
        id="text6106">
       <tspan
-         y="708.05151"
+         y="714.05151"
          x="254.9856"
          sodipodi:role="line"
-         id="tspan6108">who more can edit:</tspan>
+         id="tspan6108"
+         style="font-size:14px">who more can edit:</tspan>
     </text>
     <text
        id="text6111"
        x="256.56396"
        y="649.46021"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/kune/svn/trunk/img/kune-org-home-draft-def-0.1.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
@@ -95,23 +96,27 @@
     <text
        id="text6115"
        x="254.9856"
-       y="760.07556"
+       y="776.07556"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/kune/svn/trunk/img/kune-org-home-draft-def-0.1.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
          id="tspan6117"
          sodipodi:role="line"
          x="254.9856"
-         y="760.07556">who more can view:</tspan>
+         y="776.07556"
+         style="font-size:14px">who more can view:</tspan>
     </text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6127"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-1545.2188,252.79263)"><flowRegion
+       transform="translate(-1545.2188,268.79263)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6129"><rect
            id="rect6141"
            width="121.27197"
@@ -121,9 +126,9 @@
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara6143"
          style="font-weight:normal;fill:#999999;-inkscape-font-specification:Open Sans">anybody</flowPara></flowRoot>    <text
-       inkscape:export-ydpi="71.000000"
-       inkscape:export-xdpi="71.000000"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/desarrollo/redefinicion2005/sandbox/newUIdraftwithoutcomments-0.1.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        y="666.36206"
        x="287.45676"
        font-size="11"
@@ -139,7 +144,10 @@
        xml:space="preserve"
        id="flowRoot6155"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-1544.8033,219.3769)"><flowRegion
+       transform="translate(-1544.8033,225.3769)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6157"><rect
            id="rect6193"
            width="121.27197"
@@ -154,23 +162,29 @@
        height="2"
        width="275.12451"
        id="rect6221"
-       style="color:#000000;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6253"
        width="267.71884"
        height="53.649555"
        x="225.85669"
-       y="809.49481" />
+       y="834.49481"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#999999;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="text6283"
        font-size="11"
        x="288.54672"
-       y="725.63544"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/desarrollo/redefinicion2005/sandbox/newUIdraftwithoutcomments-0.1.png"
-       inkscape:export-xdpi="71.000000"
-       inkscape:export-ydpi="71.000000">
+       y="731.63544"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <tspan
          style="font-weight:normal;fill:#999999;-inkscape-font-specification:Open Sans"
          id="tspan3105">this group members</tspan>
@@ -181,14 +195,20 @@
        width="216.90311"
        height="16.712803"
        x="248.87195"
-       y="835.64581"
+       y="860.64581"
        ry="3"
-       rx="2.9999998" />
+       rx="2.9999998"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(-1581.8785,302.79263)"
+       transform="translate(-1581.8785,327.79263)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot3109"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3111"><rect
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="513.18896"
@@ -223,12 +243,15 @@
        xlink:href="data:image/png;base64,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 YII= "
        height="16"
        width="16"
-       inkscape:export-filename="/tmp/redesign-draft-for-talk-about-mobile-etc.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g8299"
-       transform="matrix(1.0526316,0,0,1.0526316,-1496.4257,588.90274)">
+       transform="matrix(1.0526316,0,0,1.0526316,-1496.4257,588.90274)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="80.158318"
          x="1673.9281"
@@ -500,8 +523,8 @@
     </g>
     <g
        id="g9954"
-       transform="matrix(0.8,0,0,0.8,230.00394,710.64743)"
-       inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/resources/icons/world-16.png"
+       transform="matrix(0.8,0,0,0.8,230.00394,716.64743)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -560,20 +583,20 @@
     </g>
     <image
        style="display:inline"
-       y="713.54547"
+       y="719.54547"
        x="267.60394"
        id="image8224-5"
        xlink:href="data:image/png;base64,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 YII= "
        height="16"
        width="16"
-       inkscape:export-filename="/tmp/redesign-draft-for-talk-about-mobile-etc.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/resources/icons/world-16.png"
-       transform="matrix(0.8,0,0,0.8,230.00394,742.64743)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       transform="matrix(0.8,0,0,0.8,230.00394,758.64743)"
        id="g9742">
       <path
          inkscape:export-ydpi="90"
@@ -635,7 +658,10 @@
        id="flowRoot9859"
        xml:space="preserve"
        inkscape:transform-center-x="13.152172"
-       inkscape:transform-center-y="-5.6308594"><flowRegion
+       inkscape:transform-center-y="-5.6308594"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9861"><rect
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="513.18896"
@@ -650,7 +676,10 @@
        xml:space="preserve"
        id="flowRoot9867"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-1544.8033,161.3769)"><flowRegion
+       transform="translate(-1544.8033,161.3769)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9869"><rect
            id="rect9871"
            width="121.27197"
@@ -665,7 +694,10 @@
        id="flowRoot9892"
        xml:space="preserve"
        inkscape:transform-center-x="13.152172"
-       inkscape:transform-center-y="-5.6308594"><flowRegion
+       inkscape:transform-center-y="-5.6308594"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9894"><rect
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="513.18896"
@@ -675,12 +707,15 @@
            id="rect9896" /></flowRegion><flowPara
          style="font-size:10px;font-weight:normal;fill:#e6e6e6;-inkscape-font-specification:Open Sans"
          id="flowPara9898">remove</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1402.9071,202.19351)"
+       transform="translate(-1402.9071,208.19351)"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot9908"
        xml:space="preserve"
        inkscape:transform-center-x="13.152172"
-       inkscape:transform-center-y="-5.6308594"><flowRegion
+       inkscape:transform-center-y="-5.6308594"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9910"><rect
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="513.18896"
@@ -695,7 +730,10 @@
        xml:space="preserve"
        id="flowRoot9916"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-1402.9071,223.19351)"><flowRegion
+       transform="translate(-1402.9071,239.19351)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9918"><rect
            id="rect9920"
            width="121.27197"
@@ -705,12 +743,15 @@
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara9922"
          style="font-size:10px;font-weight:normal;fill:#e6e6e6;-inkscape-font-specification:Open Sans">remove</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1402.9071,256.19351)"
+       transform="translate(-1402.9071,272.19351)"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        id="flowRoot9924"
        xml:space="preserve"
        inkscape:transform-center-x="13.152172"
-       inkscape:transform-center-y="-5.6308594"><flowRegion
+       inkscape:transform-center-y="-5.6308594"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9926"><rect
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="513.18896"
@@ -725,7 +766,7 @@
        y="620.85541"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/kune/svn/trunk/img/kune-org-home-draft-def-0.1.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
@@ -733,13 +774,16 @@
          sodipodi:role="line"
          x="244.45488"
          y="620.85541"
-         style="fill:#2b1100;font-size:16px">Share settings</tspan>
+         style="fill:#2b1100;font-size:18px">Share settings</tspan>
     </text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9953"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#deaa87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       transform="translate(-1581.8785,322.79263)"><flowRegion
+       transform="translate(-1581.8785,347.79263)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion9955"><rect
            id="rect9957"
            width="189.34152"
@@ -749,12 +793,12 @@
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#deaa87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold" /></flowRegion><flowPara
          id="flowPara9959"
          style="font-weight:normal;fill:#deaa87;-inkscape-font-specification:Open Sans">search users/groups to add</flowPara></flowRoot>    <g
-       transform="matrix(0.5,0,0,0.5,173.50045,618.68099)"
+       transform="matrix(0.5,0,0,0.5,184.50045,640.68099)"
        style="display:inline"
        id="g4611"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/twitter.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
@@ -782,12 +826,12 @@
       </g>
     </g>
     <g
-       transform="matrix(0.5,0,0,0.5,192.50001,598.68099)"
+       transform="matrix(0.5,0,0,0.5,203.50001,620.68099)"
        style="display:inline"
        id="g4617"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/facebook.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
@@ -809,12 +853,12 @@
          style="fill:#4d4d4d" />
     </g>
     <g
-       transform="matrix(0.5,0,0,0.5,211.50001,578.68099)"
+       transform="matrix(0.5,0,0,0.5,222.50001,600.68099)"
        style="display:inline"
        id="g3711"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/identica.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:nodetypes="ssscccccsssscccsss"
          inkscape:connector-curvature="0"
@@ -828,12 +872,12 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <g
-       transform="matrix(0.5,0,0,0.5,230.50045,558.68099)"
+       transform="matrix(0.5,0,0,0.5,241.50045,580.68099)"
        style="display:inline"
        id="g3689"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/g-plus.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45">
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 326.8125,457.36443 c -0.98317,0.0927 -1.81676,1.01241 -1.8125,1.99986 l 0,27.99803 c 1.1e-4,1.0471 0.95283,1.99976 2,1.99986 l 28,0 c 1.04717,-1e-4 1.99989,-0.95276 2,-1.99986 l 0,-27.99803 c -1.1e-4,-1.0471 -0.95283,-1.99976 -2,-1.99986 l -28,0 c -0.0624,-0.003 -0.12505,-0.003 -0.1875,0 z m 2.1875,3.99972 24,0 0,23.99831 -24,0 0,-23.99831 z"
@@ -888,17 +932,18 @@
     <text
        id="text6115-1"
        x="254.87012"
-       y="800.84155"
+       y="820.84155"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#803300;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/vjrj/proyectos/ourproject.org/kune/svn/trunk/img/kune-org-home-draft-def-0.1.png"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/webtemplate/share-dialog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
          id="tspan6117-7"
          sodipodi:role="line"
          x="254.87012"
-         y="800.84155">or share via:</tspan>
+         y="820.84155"
+         style="font-size:14px">or share via:</tspan>
     </text>
   </g>
 </svg>
