@@ -42,12 +42,12 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.44444444"
-     inkscape:cx="365.75"
-     inkscape:cy="355.23562"
+     inkscape:zoom="0.562"
+     inkscape:cx="-207.88849"
+     inkscape:cy="592.23013"
      inkscape:window-x="49"
      inkscape:window-y="864"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
      showborder="true"
      inkscape:showpageshadow="false">
@@ -79,7 +79,7 @@
       <font-face
          units-per-em="1024"
          id="font-face3935"
-         font-family="kune" />
+         font-family="Kune" />
       <missing-glyph
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph3937" />
@@ -146,27 +146,33 @@
       <glyph
          glyph-name="glyph 13"
          id="glyph3963"
-         unicode="m" />
+         unicode="m"
+         d="M 0,1024 0,24 1000,24 c 0.012,333.334 0.025,666.667 0,1000 L 0,1024 z M 125,899.375 c 80.40705,-0.509 160.7992,-3.4625 241.21875,-2.9375 0.3125,-82.766 0.65625,-165.51525 0.96875,-248.28125 169.26388,0.647 338.51426,1.2905 507.78125,1.9375 l 0,-501.46875 C 610.22633,150.622 369.4993,148.312 125,148.625 l 0,750.75 z m 343.75,0 406.25,0 0,-124.65625 -406.25,0 0,124.65625 z m 186.90625,-283.59375 -222.9375,-222.9375 -88.375,88.375 -88.375,-88.375 176.75,-176.78125 311.3125,311.3125 -88.375,88.40625 z" />
       <glyph
          glyph-name="glyph 14"
          id="glyph3965"
-         unicode="n" />
+         unicode="n"
+         d="m 718.38998,1023.2814 c 0,0 -374.81143,0 -593.45181,0.719 0,-250.53875 -124.9381392362,-1000 -124.9381392362,-1000 406.0475392362,0 671.5404792362,0 874.5611992362,0 95.4073,374.99963 123.32369,593.72891 124.43761,686.75631 2.25276,188.24282 0,313.24269 0,313.24269 z M 780.8591,148.91028 c -340.69045,0 -434.53025,-2.99405 -640.93647,-2.99405 47.48467,221.58933 78.71768,502.63754 93.70213,752.45729 65.59179,0 41.06721,0.62501 172.21945,0.62501 0,0 0.90746,-124.99888 -31.48332,-249.37474 155.79577,-17.75927 499.76539,-0.62501 499.76539,-0.62501 0,-85.34528 -93.26718,-500.0895 -93.26718,-500.0895 z M 519.63408,773.99965 c 11.0858,62.49994 11.0858,93.75041 11.0858,124.99988 31.21729,0 234.14098,0 343.4064,0 0,-31.24947 0,-93.75041 0,-125.00088 -124.96638,-0.219 -229.52902,-0.625 -354.4922,0 z" />
       <glyph
          glyph-name="glyph 15"
          id="glyph3967"
-         unicode="o" />
+         unicode="o"
+         d="m 0,1024 0,-125 1000,0 0,125 -1000,0 z m 125,-250 0,-125 875,0 0,125 -875,0 z m 0,-375 0,-125 875,0 0,125 -875,0 z m 125,-250 0,-125 750,0 0,125 -750,0 z" />
       <glyph
          glyph-name="glyph 16"
          id="glyph3969"
-         unicode="p" />
+         unicode="p"
+         d="M 312.5,1024 C 277.96875,1024 250,996.03125 250,961.5 l 0,-125 c 0,-34.53125 27.96875,-62.5 62.5,-62.5 34.53125,0 62.5,27.96875 62.5,62.5 l 0,125 c 0,34.53125 -27.96875,62.5 -62.5,62.5 z m 375,0 C 652.96875,1024 625,996.03125 625,961.5 l 0,-125 c 0,-34.53125 27.96875,-62.5 62.5,-62.5 34.53125,0 62.5,27.96875 62.5,62.5 l 0,125 c 0,34.53125 -27.96875,62.5 -62.5,62.5 z M 0,899 0,24 l 1000,0 0,875 -125,0 0,-750 -750,0 0,750 -125,0 z m 187.5,-250 0,-125 125,0 0,125 -125,0 z m 500,0 0,-125 125,0 0,125 -125,0 z m -250,-0.25 0,-125 125,0 0,125 -125,0 z M 187.5,399 l 0,-125 125,0 0,125 -125,0 z m 250,0 0,-125 125,0 0,125 -125,0 z m 250,0 0,-125 125,125 -125,0 z" />
       <glyph
          glyph-name="glyph 17"
          id="glyph3971"
-         unicode="q" />
+         unicode="q"
+         d="M 0,1024 0,24 l 1000,0 0,687.8125 -1.90625,1.90625 C 982.46164,875.59697 853.38662,1004.8626 691.5,1021 l -3,3 -688.5,0 z m 125,-122.9375 268.75,0 C 342.65913,841.47934 311.59375,764.53095 311.59375,680.625 311.59375,492.01876 468.45957,338.5 657.25,338.5 c 83.01865,0 159.24323,29.69839 218.59375,79 C 875.58068,301.50757 875,148.875 875,148.875 l -750,0 0,752.1875 z m 532.25,-3.03125 c 121.20244,0 217.625,-96.32206 217.625,-217.40625 0,-121.08419 -96.42266,-217.4375 -217.625,-217.4375 -121.20234,0 -217.625,96.35341 -217.625,217.4375 0,121.08408 96.42256,217.40625 217.625,217.40625 z m -85.21875,-62.0625 0,-140.71875 c 0,-18.794 8.65625,-35.01175 21.71875,-46.59375 l 122.5625,-122.4375 88.375,88.3125 -106.9375,106.9375 0,114.5 -125.71875,0 z" />
       <glyph
          glyph-name="glyph 18"
          id="glyph3973"
-         unicode="r" />
+         unicode="r"
+         d="M 0,1024 0,24 l 1000,0 0,687.8125 -1.90625,1.90625 C 982.46164,875.59697 853.38662,1004.8626 691.5,1021 l -3,3 -688.5,0 z m 125,-122.9375 268.75,0 C 342.65913,841.47934 311.59375,764.53095 311.59375,680.625 311.59375,492.01876 468.45957,338.5 657.25,338.5 c 83.01865,0 159.24323,29.69839 218.59375,79 C 875.58068,301.50757 875,148.875 875,148.875 l -750,0 0,752.1875 z m 532.25,-3.03125 c 121.20244,0 217.625,-96.32206 217.625,-217.40625 0,-121.08419 -96.42266,-217.4375 -217.625,-217.4375 -121.20234,0 -217.625,96.35341 -217.625,217.4375 0,121.08408 96.42256,217.40625 217.625,217.40625 z m -85.21875,-62.0625 0,-140.71875 c 0,-18.794 8.65625,-35.01175 21.71875,-46.59375 l 122.5625,-122.4375 88.375,88.3125 -106.9375,106.9375 0,114.5 -125.71875,0 z" />
       <glyph
          glyph-name="glyph 19"
          id="glyph3975"
@@ -353,6 +359,15 @@
          in2="BackgroundImage"
          id="feBlend5899" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3291">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend3293" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -513,7 +528,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="a-docs-root"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path4491"
@@ -527,7 +542,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="b-docs"
-     style="display:none">
+     style="display:none;filter:url(#filter3291)">
     <rect
        y="-1.5624999e-05"
        x="937.5"
@@ -700,77 +715,92 @@
   <g
      inkscape:groupmode="layer"
      id="layer25"
-     inkscape:label="task-folder"
-     style="display:inline;filter:url(#filter5897)">
+     inkscape:label="m-task-folder"
+     style="display:none;filter:url(#filter5897)">
+    <path
+       style="fill:#4d4d4d;display:inline"
+       d="m 0,0 0,1000 1000,0 c 0.012,-333.334 0.025,-666.667 0,-1000 L 0,0 z m 125,124.625 c 80.40705,0.509 160.7992,3.4625 241.21875,2.9375 0.3125,82.766 0.65625,165.51525 0.96875,248.28125 169.26388,-0.647 338.51426,-1.2905 507.78125,-1.9375 l 0,501.46875 C 610.22633,873.378 369.4993,875.688 125,875.375 l 0,-750.75 z m 343.75,0 406.25,0 0,124.65625 -406.25,0 0,-124.65625 z m 186.90625,283.59375 -222.9375,222.9375 -88.375,-88.375 -88.375,88.375 176.75,176.78125 311.3125,-311.3125 -88.375,-88.40625 z"
+       id="path6411-7-5"
+       inkscape:connector-curvature="0" />
     <g
-       id="g3380"
-       transform="matrix(1.0000006,0,0,1.0000151,1970.0008,9020.4878)">
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
+       transform="matrix(10.974305,10.974464,-10.974305,10.974464,671.42792,170.05656)"
+       id="g3347">
       <g
-         id="g3339"
-         transform="matrix(31.249529,0,0,31.249529,-2282.4947,-20281.5)"
-         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/folder-g.png"
+         id="g3349"
+         style="fill:#4d4d4d"
+         inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
          inkscape:export-xdpi="45"
-         inkscape:export-ydpi="45">
-        <rect
-           y="363.95392"
-           x="13.541537"
-           height="25.323557"
-           width="9.1984463"
-           id="rect3341"
-           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           y="371.67773"
-           x="13.232211"
-           height="18.040739"
-           width="26.767767"
-           id="rect3343"
-           style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:connector-curvature="0"
-           id="path3345"
-           d="m 10,360.36218 c 0,10.66667 0,21.33333 0,32 10.66667,0 21.33333,0 32,0 3.8e-4,-10.66667 8.2e-4,-21.33333 0,-32 -10.66667,0 -21.33333,0 -32,0 z m 4,3.98832 c 2.57307,0.0163 5.1453,0.1102 7.71875,0.0934 0.0104,2.6485 0.0208,5.29699 0.0312,7.94548 5.41667,-0.0207 10.83333,-0.0416 16.25,-0.0623 0,5.34891 0,10.69783 0,16.04674 -8.47194,-0.0639 -16.17572,0.01 -24,0 3e-5,-8.00773 -7e-5,-16.01579 5e-5,-24.02332 z m 11,0 c 4.33333,0 8.66667,0 13,0 0,1.32943 0,2.65888 0,3.98831 -4.33333,0 -8.66667,0 -13,0 0,-1.32943 0,-2.65888 0,-3.98831 z"
-           style="fill:#4d4d4d;display:inline" />
-      </g>
+         inkscape:export-ydpi="45" />
       <g
-         id="g3347"
-         transform="matrix(10.974298,10.974298,-10.974298,10.974298,-1298.5721,-8850.2976)"
+         id="g3351"
+         style="fill:#4d4d4d"
          inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
          inkscape:export-xdpi="45"
          inkscape:export-ydpi="45">
         <g
-           inkscape:export-ydpi="45"
-           inkscape:export-xdpi="45"
-           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-           style="fill:#4d4d4d"
-           id="g3349" />
-        <g
-           inkscape:export-ydpi="45"
-           inkscape:export-xdpi="45"
-           inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/tasks-g.png"
-           style="fill:#4d4d4d"
-           id="g3351">
-          <g
+           id="g3353"
+           style="fill:#4d4d4d">
+          <path
+             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)"
              style="fill:#4d4d4d"
-             id="g3353">
-            <path
-               sodipodi:nodetypes="cccccccc"
-               inkscape:connector-curvature="0"
-               id="polygon3355"
-               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
-               style="fill:#4d4d4d"
-               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)" />
-            <path
-               transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-8.468627,30.170589)"
-               style="fill:#4d4d4d"
-               d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
-               id="path3362"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cccccccc" />
-          </g>
+             d="M 26.305,0 32,5.695 11.941,25.754 l 0,0 L 0.55182708,14.363827 6.2468271,8.6688271 11.941,14.363 z"
+             id="polygon3355"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccc" />
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer34"
+     inkscape:label="n-wiki-folder"
+     style="display:none">
+    <path
+       style="fill:#4d4d4d"
+       d="m 718.38998,0.71860606 c 0,0 -374.81143,0 -593.45181,-0.719010785 C 124.93817,250.53835 3.07638e-5,999.9996 3.07638e-5,999.9996 c 406.0475392362,0 671.5404792362,0 874.5611992362,0 95.4073,-374.99963 123.32369,-593.72891 124.43761,-686.75631 2.25276,-188.24282 0,-313.24269471 0,-313.24269471 z M 780.8591,875.08972 c -340.69045,0 -434.53025,2.99405 -640.93647,2.99405 47.48467,-221.58933 78.71768,-502.63754 93.70213,-752.45729 65.59179,0 41.06721,-0.62501 172.21945,-0.62501 0,0 0.90746,124.99888 -31.48332,249.37474 155.79577,17.75927 499.76539,0.62501 499.76539,0.62501 0,85.34528 -93.26718,500.0895 -93.26718,500.0895 z M 519.63408,250.00035 c 11.0858,-62.49994 11.0858,-93.75041 11.0858,-124.99988 31.21729,0 234.14098,0 343.4064,0 0,31.24947 0,93.75041 0,125.00088 -124.96638,0.219 -229.52902,0.625 -354.4922,0 z"
+       id="path3239"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccccccccccccccc"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/wikis-g.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer36"
+     inkscape:label="o-lists"
+     style="display:none">
+    <path
+       style="fill:#4d4d4d"
+       d="M 0,0 0,125 1000,125 1000,0 0,0 z m 125,250 0,125 875,0 0,-125 -875,0 z m 0,375 0,125 875,0 0,-125 -875,0 z m 125,250 0,125 750,0 0,-125 -750,0 z"
+       id="polygon5"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer32"
+     inkscape:label="p-events"
+     style="display:none">
+    <path
+       style="fill:#4d4d4d"
+       d="M 312.5,0 C 277.96875,0 250,27.968752 250,62.5 l 0,125 c 0,34.53125 27.96875,62.5 62.5,62.5 34.53125,0 62.5,-27.96875 62.5,-62.5 l 0,-125 C 375,27.968752 347.03125,0 312.5,0 z m 375,0 C 652.96875,0 625,27.968752 625,62.5 l 0,125 c 0,34.53125 27.96875,62.5 62.5,62.5 34.53125,0 62.5,-27.96875 62.5,-62.5 l 0,-125 C 750,27.968752 722.03125,0 687.5,0 z M 0,125 l 0,875 1000,0 0,-875 -125,0 0,750 -750,0 0,-750 -125,0 z m 187.5,250 0,125 125,0 0,-125 -125,0 z m 500,0 0,125 125,0 0,-125 -125,0 z m -250,0.25 0,125 125,0 0,-125 -125,0 z m -250,249.75 0,125 125,0 0,-125 -125,0 z m 250,0 0,125 125,0 0,-125 -125,0 z m 250,0 0,125 125,-125 -125,0 z"
+       id="polygon4381"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer30"
+     inkscape:label="q-blogs"
+     style="display:none">
+    <path
+       style="fill:#4d4d4d"
+       d="m 0,0 0,1000 1000,0 0,-687.8125 -1.90625,-1.90625 C 982.46164,148.40303 853.38662,19.137443 691.5,3 L 688.5,0 0,0 z m 125,122.9375 268.75,0 c -51.09087,59.58316 -82.15625,136.53155 -82.15625,220.4375 0,188.60624 156.86582,342.125 345.65625,342.125 83.01865,0 159.24323,-29.69839 218.59375,-79 C 875.58068,722.49243 875,875.125 875,875.125 l -750,0 0,-752.1875 z m 532.25,3.03125 c 121.20244,0 217.625,96.32206 217.625,217.40625 0,121.08419 -96.42266,217.4375 -217.625,217.4375 -121.20234,0 -217.625,-96.35341 -217.625,-217.4375 0,-121.08408 96.42256,-217.40625 217.625,-217.40625 z m -85.21875,62.0625 0,140.71875 c 0,18.794 8.65625,35.01175 21.71875,46.59375 l 122.5625,122.4375 88.375,-88.3125 -106.9375,-106.9375 0,-114.5 -125.71875,0 z"
+       id="path3"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -819,7 +849,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -869,7 +899,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -919,7 +949,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -973,7 +1003,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1043,7 +1073,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1123,7 +1153,7 @@
            sodipodi:cy="30"
            sodipodi:rx="8"
            sodipodi:ry="8"
-           d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
            transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
         <rect
            inkscape:export-ydpi="45"
@@ -1194,7 +1224,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1249,7 +1279,7 @@
            sodipodi:cy="30"
            sodipodi:rx="8"
            sodipodi:ry="8"
-           d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
            transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
         <rect
            inkscape:export-ydpi="45"
@@ -1309,7 +1339,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1363,7 +1393,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1557,7 +1587,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1580,40 +1610,6 @@
          height="4"
          x="223.36218"
          y="-87" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer34"
-     inkscape:label="wiki-folder"
-     style="display:none">
-    <g
-       id="g4441"
-       transform="matrix(1.001273,0,0,1.000015,-8921.343,18560.593)">
-      <rect
-         ry="0"
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3243"
-         width="335.43915"
-         height="809.8407"
-         x="9043.3066"
-         y="-18466.564" />
-      <rect
-         style="color:#000000;fill:#f3d347;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000119;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3245"
-         width="749.98871"
-         height="604.87494"
-         x="9034.999"
-         y="-18247.818" />
-      <path
-         inkscape:export-ydpi="45"
-         inkscape:export-xdpi="45"
-         inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/wikis-g.png"
-         sodipodi:nodetypes="ccccsccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path3239"
-         d="m 9627.4772,-18559.596 c 0,0 -374.3349,0 -592.6973,-0.719 0,250.535 -124.7793,999.985 -124.7793,999.985 405.5313,0 670.6867,0 873.4493,0 95.286,-374.994 123.1669,-593.72 124.2794,-686.746 2.2499,-188.24 0,-313.238 0,-313.238 z m 62.3897,874.358 c -340.2573,0 -433.9778,2.994 -640.1216,2.994 47.4243,-221.586 78.6176,-502.63 93.583,-752.446 65.5084,0 41.015,-0.625 172.0005,-0.625 0,0 0.9063,124.997 -31.4433,249.371 155.5977,17.759 499.13,0.625 499.13,0.625 0,85.344 -93.1486,500.082 -93.1486,500.082 z m -260.8929,-625.08 c 11.0717,-62.499 11.0717,-93.749 11.0717,-124.998 31.1776,0 233.8433,0 342.9698,0 0,31.249 0,93.749 0,124.999 -124.8075,0.219 -229.2372,0.625 -354.0415,0 z"
-         style="fill:#4d4d4d" />
     </g>
   </g>
   <g
@@ -1664,7 +1660,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1687,36 +1683,6 @@
          height="4"
          x="223.36218"
          y="-87" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer36"
-     inkscape:label="lists"
-     style="display:none">
-    <g
-       transform="translate(-8910.0005,22310.292)"
-       id="g4529">
-      <polygon
-         id="polygon5"
-         points="32,4 0,4 0,0 32,0 32,4 "
-         style="fill:#4d4d4d"
-         transform="matrix(-31.249998,0,0,31.249998,9910.0005,-22310.292)" />
-      <polygon
-         id="polygon7"
-         points="0,8 20,8 20,12 20,12 0,12 "
-         style="fill:#4d4d4d"
-         transform="matrix(-43.749997,0,0,31.249998,9910.0005,-22310.292)" />
-      <polygon
-         id="polygon9"
-         points="0,20 32,20 32,24 32,24 0,24 "
-         style="fill:#4d4d4d"
-         transform="matrix(-27.343748,0,0,31.249998,9910.0005,-22310.292)" />
-      <polygon
-         id="polygon11"
-         points="24,32 0,32 0,28 24,28 24,32 "
-         style="fill:#4d4d4d"
-         transform="matrix(-31.249998,0,0,31.249998,9910.0005,-22310.292)" />
     </g>
   </g>
   <g
@@ -1763,7 +1729,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1786,73 +1752,6 @@
          height="4"
          x="223.36218"
          y="-87" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer32"
-     inkscape:label="events"
-     style="display:none">
-    <g
-       style="fill:#4d4d4d"
-       id="g4379"
-       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/events-g.png"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45"
-       transform="matrix(31.249998,0,0,31.249998,3.2e-5,3.2e-5)">
-      <polygon
-         id="polygon4381"
-         points="32,32 32,32 0,32 0,4 4,4 4,28 28,28 28,4 32,4 "
-         style="fill:#4d4d4d" />
-      <rect
-         id="rect4383"
-         height="4"
-         width="4"
-         style="fill:#4d4d4d"
-         y="12"
-         x="6" />
-      <rect
-         id="rect4385"
-         height="4"
-         width="4"
-         style="fill:#4d4d4d"
-         y="12.008"
-         x="14" />
-      <rect
-         id="rect4387"
-         height="4"
-         width="4"
-         style="fill:#4d4d4d"
-         y="12"
-         x="22" />
-      <rect
-         id="rect4389"
-         height="4"
-         width="4"
-         style="fill:#4d4d4d"
-         y="20"
-         x="6" />
-      <rect
-         id="rect4391"
-         height="4"
-         width="4"
-         style="fill:#4d4d4d"
-         y="20"
-         x="14" />
-      <polygon
-         id="polygon4393"
-         points="26,20 22,24 22,20 "
-         style="fill:#4d4d4d" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4395"
-         d="M 8,6 V 2 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 V 6 C 12,7.105 11.105,8 10,8 8.895,8 8,7.105 8,6 z"
-         style="fill:#4d4d4d" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4397"
-         d="M 20,6 V 2 c 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 V 6 C 24,7.105 23.105,8 22,8 20.895,8 20,7.105 20,6 z"
-         style="fill:#4d4d4d" />
     </g>
   </g>
   <g
@@ -1948,7 +1847,7 @@
            sodipodi:cy="30"
            sodipodi:rx="8"
            sodipodi:ry="8"
-           d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
            transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
         <rect
            inkscape:export-ydpi="45"
@@ -1971,49 +1870,6 @@
            height="4"
            x="223.36218"
            y="-87" />
-      </g>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer30"
-     inkscape:label="blogs"
-     style="display:none">
-    <g
-       transform="translate(-8910.0006,28341.54)"
-       id="g4103">
-      <g
-         id="g4083">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#4d4d4d"
-           d="m 8910.0006,-28341.54 0,1000 999.9999,0 0,-687.806 -91.7969,-91.707 c 18.2156,37.168 28.3219,78.754 28.3219,122.927 0,65.966 -22.3875,126.748 -60.5468,174.634 0,100.48 -0.9689,357.073 -0.9689,357.073 l -749.9998,0 c 0,0 0,-669.681 0,-752.194 l 357.4217,0 c 47.7626,-37.608 108.297,-59.513 173.8282,-59.513 44.5312,0 86.6219,9.851 124.025,28.293 l -91.7969,-91.707 -688.4781,0 z"
-           id="path3"
-           inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/blogs-g.png"
-           inkscape:export-xdpi="45"
-           inkscape:export-ydpi="45" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#4d4d4d"
-           d="m 9714.688,-27932.065 -106.9375,-106.959 0,-114.482 -125.7187,0 c 0,120.052 0,140.707 0,140.707 0,18.794 8.6562,35.028 21.7187,46.61 l 122.5626,122.443 z"
-           id="path7"
-           sodipodi:nodetypes="ccccsccc"
-           inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/blogs-g.png"
-           inkscape:export-xdpi="45"
-           inkscape:export-ydpi="45" />
-        <path
-           transform="matrix(102.41303,0,0,102.31311,7646.9975,-30175.508)"
-           d="m 21.480664,21.282667 a 2.7403326,2.7403326 0 1 1 -5.480665,0 2.7403326,2.7403326 0 1 1 5.480665,0 z"
-           sodipodi:ry="2.7403326"
-           sodipodi:rx="2.7403326"
-           sodipodi:cy="21.282667"
-           sodipodi:cx="18.740332"
-           id="path3005"
-           style="color:#000000;fill:none;stroke:#4d4d4d;stroke-width:1.2211436;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           sodipodi:type="arc"
-           inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/blogs-g.png"
-           inkscape:export-xdpi="45"
-           inkscape:export-ydpi="45" />
       </g>
     </g>
   </g>
@@ -2060,7 +1916,7 @@
            sodipodi:cy="21.282667"
            sodipodi:rx="2.7403326"
            sodipodi:ry="2.7403326"
-           d="m 21.480664,21.282667 a 2.7403326,2.7403326 0 1 1 -5.480665,0 2.7403326,2.7403326 0 1 1 5.480665,0 z"
+           d="m 21.480664,21.282667 c 0,1.513444 -1.226888,2.740333 -2.740332,2.740333 -1.513444,0 -2.740333,-1.226889 -2.740333,-2.740333 0,-1.513444 1.226889,-2.740332 2.740333,-2.740332 1.513444,0 2.740332,1.226888 2.740332,2.740332 z"
            transform="matrix(3.277217,0,0,3.277217,-40.416133,-58.744255)" />
       </g>
       <g
@@ -2069,7 +1925,7 @@
          style="display:inline">
         <path
            transform="matrix(1.125,0,0,1.125,55.75,195.61218)"
-           d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+           d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
            sodipodi:ry="8"
            sodipodi:rx="8"
            sodipodi:cy="30"
