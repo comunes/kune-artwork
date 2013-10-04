@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.341898"
-     inkscape:cx="25.999992"
-     inkscape:cy="403.98831"
+     inkscape:zoom="1.2794074"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1871"
-     inkscape:window-height="1056"
-     inkscape:window-x="49"
-     inkscape:window-y="864"
+     inkscape:window-width="1080"
+     inkscape:window-height="1896"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-bbox="true"
@@ -3515,7 +3515,7 @@
        inkscape:export-ydpi="45"
        inkscape:export-xdpi="45"
        inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/docs-g.png"
-       transform="translate(-50,-75)"
+       transform="translate(-1497.428,-75)"
        id="g5101">
       <rect
          y="712.36218"
@@ -6336,5 +6336,37 @@
            inkscape:export-ydpi="45" />
       </g>
     </g>
+    <path
+       id="path2994-8-0"
+       d="m 271.21931,958.98261 c -4.418,0 -8,3.48925 -8,7.90625 l 0,4.09375 c 0,1.104 0.895,2 2,2 l 4,0 0,4 -4,0 c -1.105,0 -2,0.896 -2,2 l 0,4.09375 c 0,4.417 3.582,7.90625 8,7.90625 4.418,0 8,-3.48925 8,-7.90625 l 0,-4.09375 c 0,-1.104 -0.895,-2 -2,-2 l -4,0 0,-4 4,0 c 1.105,0 2,-0.896 2,-2 l 0,-4.09375 c 0,-4.417 -3.582,-7.90625 -8,-7.90625 z m 0,4 c 4,0 4,3.90625 4,3.90625 l 0,2.09375 -2,0 c 0,-1.10457 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543 -2,2 l -2,0 0,-2 c 0,-0.34325 0,-4 4,-4 z m -4,18 2,0 c 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 l 2,0 0,2.09375 c 0,0 0,3.90625 -4,3.90625 -4,0 -4,-3.65676 -4,-4 l 0,-2 z"
+       style="fill:#231f20;display:inline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/wave/wiab/wiab-ro/src/org/waveprotocol/wave/client/wavepanel/view/dom/full/link.png"
+       inkscape:export-xdpi="33.75"
+       inkscape:export-ydpi="33.75" />
+    <path
+       id="path2994-8-5"
+       d="m 301.70217,972.27001 c -4.418,0 -8,3.48925 -8,7.90625 l 0,4.09375 c 0,1.104 0.895,2 2,2 l 4,0 0,4 -4,0 c -1.105,0 -2,0.896 -2,2 l 0,4.09375 c 0,4.41704 3.582,7.90624 8,7.90624 4.418,0 8,-3.4892 8,-7.90624 l 0,-4.09375 c 0,-1.104 -0.895,-2 -2,-2 l -4,0 0,-4 4,0 c 1.105,0 2,-0.896 2,-2 l 0,-4.09375 c 0,-4.417 -3.582,-7.90625 -8,-7.90625 z m 0,4 c 4,0 4,3.90625 4,3.90625 l 0,2.09375 -2,0 c 0,-1.10457 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543 -2,2 l -2,0 0,-2 c 0,-0.34325 0,-4 4,-4 z m -4,18 2,0 c 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 l 2,0 0,2.09375 c 0,0 0,3.90624 -4,3.90624 -4,0 -4,-3.65675 -4,-3.99999 l 0,-2 z"
+       style="fill:#231f20;display:inline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/wave/wiab/wiab-ro/src/org/waveprotocol/wave/client/wavepanel/view/dom/full/link.png"
+       inkscape:export-xdpi="33.75"
+       inkscape:export-ydpi="33.75" />
+    <path
+       id="path2994-8-3"
+       d="m 241.51806,1013.6954 c -4.418,0 -8,3.4893 -8,7.9063 l 0,4.0937 c 0,1.104 0.895,2 2,2 l 4,0 0,4 -4,0 c -1.105,0 -2,0.896 -2,2 l 0,4.0938 c 0,4.417 3.582,7.9062 8,7.9062 4.418,0 8,-3.4892 8,-7.9062 l 0,-4.0938 c 0,-1.104 -0.895,-2 -2,-2 l -4,0 0,-4 4,0 c 1.105,0 2,-0.896 2,-2 l 0,-4.0937 c 0,-4.417 -3.582,-7.9063 -8,-7.9063 z m 0,4 c 4,0 4,3.9063 4,3.9063 l 0,2.0937 -2,0 c 0,-1.1045 -0.89543,-2 -2,-2 -1.10457,0 -2,0.8955 -2,2 l -2,0 0,-2 c 0,-0.3432 0,-4 4,-4 z m -4,18 2,0 c 0,1.1046 0.89543,2 2,2 1.10457,0 2,-0.8954 2,-2 l 2,0 0,2.0938 c 0,0 0,3.9062 -4,3.9062 -4,0 -4,-3.6567 -4,-4 l 0,-2 z"
+       style="fill:#231f20;display:inline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/wave/wiab/wiab-ro/src/org/waveprotocol/wave/client/wavepanel/view/dom/full/link.png"
+       inkscape:export-xdpi="33.75"
+       inkscape:export-ydpi="33.75" />
+    <path
+       id="path2994-8-4"
+       d="m 286.06994,1050.4312 c -4.418,0 -8,3.4892 -8,7.9062 l 0,4.0938 c 0,1.104 0.895,2 2,2 l 4,0 0,4 -4,0 c -1.105,0 -2,0.896 -2,2 l 0,4.0937 c 0,4.417 3.582,7.9063 8,7.9063 4.418,0 8,-3.4893 8,-7.9063 l 0,-4.0937 c 0,-1.104 -0.895,-2 -2,-2 l -4,0 0,-4 4,0 c 1.105,0 2,-0.896 2,-2 l 0,-4.0938 c 0,-4.417 -3.582,-7.9062 -8,-7.9062 z m 0,4 c 4,0 4,3.9062 4,3.9062 l 0,2.0938 -2,0 c 0,-1.1046 -0.89543,-2 -2,-2 -1.10457,0 -2,0.8954 -2,2 l -2,0 0,-2 c 0,-0.3433 0,-4 4,-4 z m -4,18 2,0 c 0,1.1046 0.89543,2 2,2 1.10457,0 2,-0.8954 2,-2 l 2,0 0,2.0937 c 0,0 0,3.9063 -4,3.9063 -4,0 -4,-3.6568 -4,-4 l 0,-2 z"
+       style="fill:#231f20;display:inline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/wave/wiab/wiab-ro/src/org/waveprotocol/wave/client/wavepanel/view/dom/full/link.png"
+       inkscape:export-xdpi="33.75"
+       inkscape:export-ydpi="33.75" />
   </g>
 </svg>

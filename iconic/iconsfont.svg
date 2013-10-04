@@ -42,9 +42,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.531"
-     inkscape:cx="500"
-     inkscape:cy="500"
+     inkscape:zoom="0.354"
+     inkscape:cx="438.80378"
+     inkscape:cy="1344.162"
      inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:current-layer="layer28"
@@ -358,6 +358,21 @@
          glyph-name="glyph 62"
          id="glyph4061"
          unicode="9" />
+      <glyph
+         glyph-name="glifo 63"
+         id="glyph5872"
+         unicode="'"
+         d="m 718.74995,586.5 c -155.33006,0 -281.25,-125.91994 -281.25,-281.25 C 437.49995,149.91994 563.41989,24 718.74995,24 874.08,24 1000,149.91994 1000,305.25 999.9999,460.58006 874.08,586.5 718.74995,586.5 z m -62.5,-93.75 125,0 0,-125 125.00005,0 0,-125 -125.00005,0 0,-125 -125,0 0,125 -125,0 0,125 125,0 0,125 z" />
+      <hkern
+         u1="b"
+         u2="'"
+         k="1024"
+         id="hkern5874" />
+      <glyph
+         glyph-name="glifo 64"
+         id="glyph5926"
+         unicode=" "
+         d="m 102.49859,1024.0001 c -3.582261,-0.1368 -7.157306,-0.4621 -10.705371,-0.9743 -21.93775,-2.2419 -43.062124,-11.8123 -59.207998,-26.82421 C 16.439347,981.18966 5.3646476,960.82239 1.5447331,939.11562 -2.2751813,917.40885 1.1816147,894.48718 11.233543,874.87011 21.285472,855.25303 37.874838,839.05315 57.730689,829.46461 L 287.40945,712.74332 C 195.41927,533.87684 95.439373,336.83942 13.936009,176.79653 7.0931843,164.82626 2.711054,151.45795 1.1403041,137.76141 -0.43044577,124.06487 0.8115822,110.05228 4.7669948,96.84502 12.67782,70.43051 31.783695,47.56512 56.379357,35.07669 68.677188,28.83248 82.251565,25.11315 96.016184,24.21635 c 13.764616,-0.89675 27.707236,1.02974 40.712086,5.62544 26.00969,9.1914 47.92397,29.3843 59.19896,54.54884 l 115.8126,227.6096 c 182.454,-92.56203 349.57689,-178.02619 538.18791,-274.2982 11.9114,-6.11152 25.03397,-9.85354 38.37874,-10.94407 13.34477,-1.09052 26.90124,0.47131 39.64776,4.5678 25.49302,8.19298 47.45445,26.82425 59.68423,50.6339 6.1149,11.90482 9.859,25.02013 10.95013,38.35753 1.09114,13.33739 -0.47155,26.88637 -4.5703,39.62585 -8.19749,25.47894 -26.83905,47.42826 -50.66186,59.65129 l -229.6788,116.72128 c 96.2524,184.2708 175.44511,342.92995 274.4467,536.91792 8.39619,15.85055 12.51036,33.94113 11.79428,51.86167 -0.71604,17.92054 -6.26042,35.62563 -15.89452,50.75655 -9.63409,15.13092 -23.33348,27.64935 -39.27309,35.88745 -15.93962,8.2382 -34.07907,12.1752 -52.00177,11.2866 -18.04599,-0.8515 -35.8374,-6.5939 -50.97314,-16.4522 -15.13573,-9.85829 -27.57641,-23.80679 -35.64306,-39.96303 l -116.7858,-227.60652 -16.5446,8.75565 c -5.88864,3.19117 -12.09209,5.8017 -18.4911,7.78142 -389.58578,193.89237 -386.13339,195.16377 -503.1522,255.81258 -14.83642,8.1578 -31.72755,12.5476 -48.66075,12.6464 z M 469.40067,620.33741 596.89184,555.16647 531.68644,429.69264 405.16847,493.88935 z" />
     </font>
     <filter
        inkscape:collect="always"
@@ -386,7 +401,7 @@
     <g
        style="display:inline"
        id="use3928-6-7-6"
-       transform="matrix(31.249995,0,0,31.249995,622.5005,-6768.817)">
+       transform="matrix(31.249995,0,0,31.249995,-915.63509,-6762.4611)">
       <path
          inkscape:export-ydpi="45"
          inkscape:export-xdpi="45"
@@ -398,7 +413,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
+         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -451,7 +466,7 @@
        xml:space="preserve"
        id="flowRoot5783-4"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       transform="translate(292.72589,580.18134)"><flowRegion
+       transform="translate(537.54698,540.63332)"><flowRegion
          id="flowRegion5785-2"><rect
            id="rect5787-4"
            width="1064"
@@ -459,7 +474,54 @@
            x="-84"
            y="630"
            style="font-size:22px" /></flowRegion><flowPara
-         id="flowPara5793-2">Pending</flowPara></flowRoot>  </g>
+         id="flowPara5793-2">Pending</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28335115,0,0,0.28335115,-28.188375,1144.9358)"
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="2194.2856"
+           height="2837.1428"
+           x="100"
+           y="309.50504"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-family:kune;-inkscape-font-specification:kune">A</flowPara><flowPara
+         style="font-family:kune;-inkscape-font-specification:kune"
+         id="flowPara3021">abcde</flowPara><flowPara
+         style="font-family:kune;-inkscape-font-specification:kune"
+         id="flowPara3023">fghij</flowPara><flowPara
+         id="flowPara2993"
+         style="font-family:kune;-inkscape-font-specification:kune">klmno</flowPara><flowPara
+         style="font-family:kune;-inkscape-font-specification:kune"
+         id="flowPara3025">pqrst</flowPara><flowPara
+         style="font-family:kune;-inkscape-font-specification:kune"
+         id="flowPara3043">uvxyz</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5783-4-7"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(86.502264,518.00346)"><flowRegion
+         id="flowRegion5785-2-6"><rect
+           id="rect5787-4-6"
+           width="1064"
+           height="730"
+           x="-84"
+           y="630"
+           style="font-size:22px" /></flowRegion><flowPara
+         id="flowPara5793-2-1">With kune font installed you</flowPara><flowPara
+         id="flowPara3463">shold see the icons (no the lethers):</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer47"
+     inkscape:label="testing"
+     style="display:none">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 718.74995,437.5 c -155.33006,0 -281.25,125.91994 -281.25,281.25 0,155.33006 125.91994,281.25 281.25,281.25 C 874.08,1000 1000,874.08006 1000,718.75 999.9999,563.41994 874.08,437.5 718.74995,437.5 z m -62.5,93.75 125,0 0,125 125.00005,0 0,125 -125.00005,0 0,125 -125,0 0,-125 -125,0 0,-125 125,0 0,-125 z"
+       id="path3611-73"
+       inkscape:connector-curvature="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer28"
@@ -1030,7 +1092,7 @@
          sodipodi:cy="30"
          sodipodi:rx="8"
          sodipodi:ry="8"
-         d="m 34,30 c 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-4.418278 3.581722,-8 8,-8 4.418278,0 8,3.581722 8,8 z"
+         d="m 34,30 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
          transform="matrix(1.125,0,0,1.125,55.75,195.61218)" />
       <rect
          inkscape:export-ydpi="45"
@@ -1054,6 +1116,38 @@
          x="223.36218"
          y="-87" />
     </g>
+    <g
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/docs-g.png"
+       transform="matrix(31.249995,0,0,31.249995,-270.12703,-23430.806)"
+       id="use4580-4"
+       style="display:inline">
+      <rect
+         y="712.36218"
+         x="40"
+         height="32"
+         width="2"
+         id="rect4878-5"
+         style="color:#000000;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#4d4d4d;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -10.9375,-1214.6875 0,1000 93.75,0 187.5,0 375,0 218.75,0 0,-104.5 c 39.07573,-48.30029 62.5,-109.78318 62.5,-176.75 0,-66.96682 -23.42427,-128.44971 -62.5,-176.75 l 0,-229.5 -311.53125,-312.5 -282.21875,0 -187.5,0 -93.75,0 z m 125,123.0313 156.25,0 93.75,0 0,374.99995 106.96875,0 c -65.14476,51.51019 -106.96875,131.2217 -106.96875,220.71875 0,57.81993 17.45737,111.55812 47.375,156.25 l -141.125,0 -156.25,0 0,-751.9687 z m 375.96875,0 c 50.46875,50.5571 199.875,199.97339 250,249.99995 l -250,0 0,-249.99995 z m 92.78125,408.2187 125,0 0,125 31.875,0 93.125,0 0,125 -93.46875,0 -31.53125,0 0,93.75 0,31.25 -125,0 0,-31.25 0,-93.75 -125,0 0,-125 125,0 0,-125 z"
+         transform="matrix(0.03200001,0,0,0.03200001,12.350282,751.23225)"
+         id="path4880-3"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4882-0"
+         width="2"
+         height="32"
+         x="10"
+         y="712.36218" />
+    </g>
+    <g
+       style="display:inline"
+       id="use5252-6"
+       transform="matrix(31.249995,0,0,31.249995,-2010.9459,-7663.5058)" />
   </g>
   <g
      inkscape:groupmode="layer"
