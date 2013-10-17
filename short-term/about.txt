@@ -1,5 +1,0 @@
-In this folder the idea is to start a short-term redesign of the interface, that is: Light graphic/aesthetic improvements without changing major interface elements.
-
-For now, this line of development is stopped, I'm working on a longer term redesign first.
-
-Jorge
