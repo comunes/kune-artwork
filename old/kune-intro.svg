@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="kune-intro.svg">
   <defs
      id="defs4" />
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="345.61953"
-     inkscape:cy="349.06544"
+     inkscape:cx="210.61953"
+     inkscape:cy="149.06544"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1078"
-     inkscape:window-height="908"
-     inkscape:window-x="0"
-     inkscape:window-y="958"
+     inkscape:window-height="748"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -66,7 +66,8 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <image
        y="-174.93011"
        x="11.366669"
@@ -154,7 +155,7 @@
          sodipodi:cy="32.362183"
          sodipodi:rx="20"
          sodipodi:ry="10"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          transform="matrix(1.1754752,0,0,2.3509505,-73.660121,753.33034)" />
       <path
          inkscape:export-ydpi="90"
@@ -167,7 +168,7 @@
          sodipodi:cy="16.362183"
          sodipodi:rx="1"
          sodipodi:ry="1"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          transform="matrix(4.9493694,0,0,4.9493694,-42.107891,748.42974)" />
     </g>
     <text
@@ -217,7 +218,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/groupSpaceEnabled.png"
          transform="matrix(1.1754752,0,0,2.3509505,-21.691738,753.33034)"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          sodipodi:ry="10"
          sodipodi:rx="20"
          sodipodi:cy="32.362183"
@@ -230,7 +231,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
          transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,51.694712,721.54769)"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          sodipodi:ry="1"
          sodipodi:rx="1"
          sodipodi:cy="16.362183"
@@ -249,14 +250,14 @@
          sodipodi:cy="16.362183"
          sodipodi:rx="1"
          sodipodi:ry="1"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,38.408722,716.19953)" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
          transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,50.908082,736.08463)"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          sodipodi:ry="1"
          sodipodi:rx="1"
          sodipodi:cy="16.362183"
@@ -275,14 +276,14 @@
          sodipodi:cy="16.362183"
          sodipodi:rx="1"
          sodipodi:ry="1"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,37.248612,739.8127)" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
          transform="matrix(5.5489598,1.9768537,-1.9768537,5.5489598,20.951652,708.53981)"
-         d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+         d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
          sodipodi:ry="1"
          sodipodi:rx="1"
          sodipodi:cy="16.362183"
@@ -317,7 +318,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/publicSpaceDisabled.png"
          transform="matrix(1.1754752,0,0,2.3509505,30.940442,700.21488)"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          sodipodi:ry="10"
          sodipodi:rx="20"
          sodipodi:cy="32.362183"
@@ -363,11 +364,11 @@
          sodipodi:cy="32.362183"
          sodipodi:rx="20"
          sodipodi:ry="10"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          transform="matrix(1.1754752,0,0,2.3509505,30.940442,700.21488)" />
       <path
          transform="matrix(1.1754752,0,0,2.3509505,30.940442,700.21488)"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          sodipodi:ry="10"
          sodipodi:rx="20"
          sodipodi:cy="32.362183"
@@ -477,7 +478,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/homeSpaceEnabled.png"
          transform="matrix(0.475,0,0,0.95,-179.12059,382.07987)"
-         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
          sodipodi:ry="10"
          sodipodi:rx="20"
          sodipodi:cy="32.362183"
@@ -548,6 +549,16 @@
          x="105.67224"
          sodipodi:role="line"
          id="tspan10129">in real time</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3753"
+       width="384"
+       height="230.39999"
+       x="80.474464"
+       y="737.16217"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-artwork/old/kune-intro-en.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g9950-6"
        transform="matrix(1.0210357,0,0,1.0210357,137.02622,699.35023)"
@@ -641,7 +652,7 @@
            sodipodi:cy="32.362183"
            sodipodi:rx="20"
            sodipodi:ry="10"
-           d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+           d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
            transform="matrix(1.1754752,0,0,2.3509505,-21.691738,753.33034)"
            inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/groupSpaceEnabled.png"
            inkscape:export-xdpi="90"
@@ -654,14 +665,14 @@
            sodipodi:cy="16.362183"
            sodipodi:rx="1"
            sodipodi:ry="1"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,51.694712,721.54769)"
            inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <path
            transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,38.408722,716.19953)"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            sodipodi:ry="1"
            sodipodi:rx="1"
            sodipodi:cy="16.362183"
@@ -680,14 +691,14 @@
            sodipodi:cy="16.362183"
            sodipodi:rx="1"
            sodipodi:ry="1"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,50.908082,736.08463)"
            inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90" />
         <path
            transform="matrix(4.6623359,1.6609881,-1.6609881,4.6623359,37.248612,739.8127)"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            sodipodi:ry="1"
            sodipodi:rx="1"
            sodipodi:cy="16.362183"
@@ -706,7 +717,7 @@
            sodipodi:cy="16.362183"
            sodipodi:rx="1"
            sodipodi:ry="1"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            transform="matrix(5.5489598,1.9768537,-1.9768537,5.5489598,20.951652,708.53981)"
            inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
            inkscape:export-xdpi="90"
@@ -720,7 +731,7 @@
          id="g8695-4">
         <path
            transform="matrix(1.1754752,0,0,2.3509505,-73.660121,753.33034)"
-           d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+           d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
            sodipodi:ry="10"
            sodipodi:rx="20"
            sodipodi:cy="32.362183"
@@ -733,7 +744,7 @@
            inkscape:export-ydpi="90" />
         <path
            transform="matrix(4.9493694,0,0,4.9493694,-42.107891,748.42974)"
-           d="m 16,16.362183 c 0,0.552284 -0.447715,1 -1,1 -0.552285,0 -1,-0.447716 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
+           d="m 16,16.362183 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
            sodipodi:ry="1"
            sodipodi:rx="1"
            sodipodi:cy="16.362183"
@@ -762,7 +773,7 @@
            sodipodi:cy="32.362183"
            sodipodi:rx="20"
            sodipodi:ry="10"
-           d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+           d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
            transform="matrix(1.1754752,0,0,2.3509505,30.276632,753.33034)" />
         <path
            inkscape:export-ydpi="90"
@@ -796,7 +807,7 @@
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/publicSpaceEnabled.png"
            transform="matrix(1.1754752,0,0,2.3509505,30.276632,753.33034)"
-           d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+           d="m 110,32.362183 a 20,10 0 1 1 -40,0 20,10 0 1 1 40,0 z"
            sodipodi:ry="10"
            sodipodi:rx="20"
            sodipodi:cy="32.362183"
@@ -1051,7 +1062,7 @@
          id="tspan3256"
          x="152.31161"
          y="939.46094"
-         style="font-size:32px;font-weight:bold;fill:#dd8a3d;fill-opacity:1;-inkscape-font-specification:Ubuntu Bold">Y comparte con el resto</tspan></text>
+         style="font-size:32px;font-weight:bold;fill:#dd8a3d;fill-opacity:1;-inkscape-font-specification:Ubuntu Bold">Y comparte con el mundo</tspan></text>
     <text
        transform="matrix(0.82311879,0,0,0.82311879,9.4006729,167.03992)"
        inkscape:export-ydpi="90"
