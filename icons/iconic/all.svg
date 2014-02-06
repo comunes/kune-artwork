@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2794074"
+     inkscape:zoom="0.80105501"
      inkscape:cx="372.04724"
      inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1080"
-     inkscape:window-height="1896"
-     inkscape:window-x="1920"
-     inkscape:window-y="24"
+     showgrid="true"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="864"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-bbox="true"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3603,7 +3603,7 @@
     </g>
     <g
        id="g8643"
-       transform="matrix(0.99812078,0,0,0.9992679,-129.26361,8.301995)"
+       transform="matrix(0.99812078,0,0,0.9992679,-209.26361,8.301995)"
        inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/world.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45">
@@ -6368,5 +6368,81 @@
        inkscape:export-filename="/home/vjrj/proyectos/dev/wave/wiab/wiab-ro/src/org/waveprotocol/wave/client/wavepanel/view/dom/full/link.png"
        inkscape:export-xdpi="33.75"
        inkscape:export-ydpi="33.75" />
+    <g
+       inkscape:export-ydpi="45.049515"
+       inkscape:export-xdpi="45.049515"
+       inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/no-world.png"
+       transform="matrix(0.99812078,0,0,0.9992679,-242.26361,8.301995)"
+       id="g5364">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
+         sodipodi:type="arc"
+         style="color:#000000;fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0.72618634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5366"
+         sodipodi:cx="90"
+         sodipodi:cy="32.362183"
+         sodipodi:rx="20"
+         sodipodi:ry="10"
+         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         transform="matrix(0.77999968,0,0,1.5599994,335.85608,347.85538)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
+         style="color:#000000;fill:#2ca05a;fill-opacity:1;fill-rule:nonzero;stroke:#2ca05a;stroke-width:0.80104595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 402.55923,383.80379 c -1.89339,0.5237 -3.45466,1.78529 -5.13672,2.73851 -0.966,0.71755 -2.10594,2.6778 -0.80519,3.53288 1.02966,0.17325 1.8567,-0.70285 2.87031,-0.76639 1.18385,-0.27287 2.39253,-0.48859 3.51487,-0.97056 1.91726,-0.60417 1.91726,-0.60417 2.11323,-1.31144 0.093,-1.06491 -0.66387,-2.05211 -1.37853,-2.77993 -0.32604,-0.26731 -0.73985,-0.5179 -1.17797,-0.44307 z"
+         id="path5368"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
+         style="color:#000000;fill:#2ca05a;fill-opacity:1;fill-rule:nonzero;stroke:#2ca05a;stroke-width:0.80104595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 417.55078,394.2351 c -2.68544,1.36942 -5.84759,2.74846 -7.01306,5.47572 -0.35842,0.83872 0.14787,1.82775 0.27364,2.72256 0.51147,0.95326 -0.73834,1.79368 -0.36941,2.75045 0.44148,0.99345 1.70303,0.84376 2.53963,0.52486 0.85261,-0.29301 -0.35555,-1.13186 0,0 0.38676,0.90466 3.56089,1.18071 4.51789,0.76983 0.92037,-0.33745 1.54671,-0.49658 1.98606,-1.2648 1.44061,-2.9308 2.14802,-6.24951 1.92159,-9.51323 -0.0706,-0.87948 -0.34104,-1.73051 -0.65864,-2.54209 -0.3285,-1.07092 -1.43802,0.0115 -1.87441,0.4517 -0.39982,0.28287 -0.84331,0.51514 -1.32329,0.625 z"
+         id="path5370"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cacccccccccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/icons/from-private-to-public.png"
+         inkscape:connector-curvature="0"
+         id="path5372"
+         d="m 396.40609,394.9302 c -1.58099,0.60074 -3.28895,1.01261 -4.73232,1.89349 -1.19653,1.00783 -1.0476,2.84858 -0.42728,4.13156 0.76122,1.6421 1.36511,3.3604 2.27476,4.93055 0.87978,1.15979 -0.0594,0.65525 1.00945,1.63787 0.30208,0.35971 2.18399,2.17836 3.28421,1.6421 0.54844,-0.26731 0.4113,-1.07558 0.36381,-1.79383 0.3456,-1.48969 -0.54728,-2.91413 -0.47611,-4.41452 -0.0384,-1.88385 0.33141,-3.74514 0.55587,-5.60886 0.12808,-1.03332 -0.45494,-2.95617 -1.85239,-2.41836 z"
+         style="color:#000000;fill:#2ca05a;fill-opacity:1;fill-rule:nonzero;stroke:#2ca05a;stroke-width:0.80104595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:nodetypes="cccccacccc" />
+      <path
+         transform="matrix(1.4,0,0,1.4,428.4,374.56218)"
+         d="m -6,17 c 0,5.522847 -4.477153,10 -10,10 -5.522847,0 -10,-4.477153 -10,-10 0,-5.522847 4.477153,-10 10,-10 5.522847,0 10,4.477153 10,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="17"
+         sodipodi:cx="-16"
+         id="path5374"
+         style="color:#000000;fill:none;stroke:#4d4d4d;stroke-width:2.86087871;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/src/main/java/cc/kune/wspace/client/resources/publicSpaceEnabled.png"
+         transform="matrix(0.77999968,0,0,1.5599994,335.85608,347.85538)"
+         d="m 110,32.362183 c 0,5.522847 -8.95431,10 -20,10 -11.045695,0 -20,-4.477153 -20,-10 0,-5.522848 8.954305,-10 20,-10 11.04569,0 20,4.477152 20,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="20"
+         sodipodi:cy="32.362183"
+         sodipodi:cx="90"
+         id="path5376"
+         style="color:#000000;fill:none;stroke:none;stroke-width:0.72523808;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:0.99607843;display:inline"
+       d="m 176.34375,390.36218 c -0.73795,0 -1.42928,0.29676 -1.90625,0.78125 -9.50792,9.55447 -17.09429,17.12233 -26.65625,26.65625 -0.47997,0.4855 -0.78125,1.1322 -0.78125,1.875 0,1.4705 1.17935,2.6875 2.65625,2.6875 0.73795,0 1.42928,-0.2968 1.90625,-0.7812 9.51366,-9.56111 17.08869,-17.14805 26.65625,-26.68755 0.47997,-0.48549 0.78125,-1.13225 0.78125,-1.875 0,-1.47048 -1.17935,-2.65625 -2.65625,-2.65625 z"
+       id="path3639-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssccss" />
   </g>
 </svg>
