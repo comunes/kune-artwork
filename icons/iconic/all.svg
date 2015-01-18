@@ -33,22 +33,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.390625"
-     inkscape:cx="351.09085"
-     inkscape:cy="521.013"
+     inkscape:zoom="1.2794074"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1080"
-     inkscape:window-height="1896"
+     inkscape:window-height="1893"
      inkscape:window-x="1920"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:bbox-paths="true"
@@ -61,6 +61,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="333,300"
+       id="guide4094" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -4469,7 +4473,7 @@
        inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/right-arrow.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45"
-       transform="matrix(0,1,-1,0,362.00005,740.36178)">
+       transform="matrix(0,1,-1,0,362.00005,790.36178)">
       <g
          id="g3719"
          style="fill:#44aa00;fill-opacity:1" />
@@ -6428,7 +6432,7 @@
        sodipodi:nodetypes="sccssccss" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 326.8125,614.375 c -0.98317,0.0927 -1.81676,1.01255 -1.8125,2 l 0,28 c 1.1e-4,1.0471 0.95283,1.9999 2,2 l 28,0 c 1.04717,-10e-5 1.99989,-0.9529 2,-2 l 0,-28 c -1.1e-4,-1.0471 -0.95283,-1.9999 -2,-2 l -28,0 c -0.0624,-0.003 -0.12505,-0.003 -0.1875,0 z m 2.1875,4 6,0 0,4 0,4 -2,0 -2,0 -2,0 0,4 0,4 0,4 4,0 4,0 2,0 0,-4 0,-4 0,-4 0,-4 0,-4 14,0 0,24 0,0 0,-3 0,-1 0,-3 0,-4 0,-4 0,-4 -2,0 -4,0 -4,0 0,4 0,4 0,4 4,0 2,0 0,3 -2,0 -4,0 0,4 -14,0 z m 18,9 2,0 0,4 -2,0 z m -14,3 2,0 0,4 -2,0 z"
+       d="m 326.8125,614.375 c -0.98317,0.0927 -1.81676,1.01255 -1.8125,2 l 0,28 c 1.1e-4,1.0471 0.95283,1.9999 2,2 l 28,0 c 1.04717,-10e-5 1.99989,-0.9529 2,-2 l 0,-28 c -1.1e-4,-1.0471 -0.95283,-1.9999 -2,-2 l -28,0 c -0.0624,-0.003 -0.12505,-0.003 -0.1875,0 z m 2.1875,4 6,0 0,4 0,4 -2,0 -2,0 -2,0 0,4 0,4 0,4 4,0 4,0 2,0 0,-4 0,-4 0,-4 0,-4 0,-4 14,0 0,24 0,0 0,-3 0,-1 0,-4 0,-4 0,-4 0,-4 -2,0 -4,0 -4,0 0,4 0,4 0,4 4,0 2,0 0,4 -2,0 -4,0 0,4 -14,0 z m 18,8 2,0 0,4 -2,0 z m -14,4 2,0 0,4 -2,0 z"
        id="path6893"
        inkscape:export-filename="/home/vjrj/dev/kune-git/src/main/java/cc/kune/core/client/resources/iconic/digg.png"
        inkscape:export-xdpi="45"
@@ -6557,5 +6561,198 @@
          d="m 334,589.36218 c -1.10456,0 -2,0.89544 -2,2 0,1.10456 0.89544,2 2,2 1.10456,0 2,-0.89544 2,-2 0,-1.10456 -0.89544,-2 -2,-2 z"
          style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 326.81252,697.36443 c -0.98317,0.0927 -1.81676,1.01241 -1.8125,1.99986 l 0,27.99803 c 1.1e-4,1.0471 0.95283,1.99976 2,1.99986 l 28,0 c 1.04717,-10e-5 1.99989,-0.95276 2,-1.99986 l 0,-27.99803 c -1.1e-4,-1.0471 -0.95283,-1.99976 -2,-1.99986 l -28,0 c -0.0624,-0.003 -0.12505,-0.003 -0.1875,0 z m 2.1875,3.99972 24,0 0,23.99831 -24,0 0,-23.99831 z"
+       id="path3994"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0,1,-0.62499986,0,378.31322,414.36218)"
+       id="g5222-6"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/chat.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5224-6"
+         width="32"
+         height="32"
+         x="283"
+         y="37.301159" />
+      <g
+         id="g5226-8"
+         transform="translate(278.998,31.301159)">
+        <g
+           id="g5228-8" />
+      </g>
+    </g>
+    <g
+       id="g4062"
+       style="fill:#4d4d4d;fill-opacity:1">
+      <rect
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+         y="442.17099"
+         x="656.86176"
+         height="11.547035"
+         width="4"
+         id="rect4054"
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4056"
+         width="4"
+         height="11.547035"
+         x="-56.500454"
+         y="-793.40857"
+         transform="matrix(0.8660254,-0.5,-0.5,-0.8660254,0,0)" />
+      <rect
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4058"
+         width="4"
+         height="11.547035"
+         x="66.026733"
+         y="783.28973"
+         transform="matrix(-0.8660254,0.5,0.5,0.8660254,0,0)" />
+      <rect
+         transform="matrix(-0.8660254,-0.5,0.5,-0.8660254,0,0)"
+         y="-452.28983"
+         x="-647.33545"
+         height="11.547035"
+         width="4"
+         id="rect4060"
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4068"
+       d="m 325.81252,736.36443 c -0.98317,0.0927 -1.81676,1.01241 -1.8125,1.99986 l 0,27.99803 c 1.1e-4,1.0471 0.95283,1.99976 2,1.99986 l 28,0 c 1.04717,-10e-5 1.99989,-0.95276 2,-1.99986 l 0,-27.99803 c -1.1e-4,-1.0471 -0.95283,-1.99976 -2,-1.99986 l -28,0 c -0.0624,-0.003 -0.12505,-0.003 -0.1875,0 z m 2.1875,3.99972 24,0 0,23.99831 -24,0 0,-23.99831 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <g
+       inkscape:export-ydpi="45"
+       inkscape:export-xdpi="45"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune-git/src/main/java/cc/kune/chat/client/resources/chat.png"
+       id="g4070"
+       transform="matrix(0,1,-0.62499986,0,378.31322,434.36218)">
+      <rect
+         y="37.301159"
+         x="283"
+         height="32"
+         width="32"
+         id="rect4072"
+         style="color:#000000;fill:none;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         transform="translate(278.998,31.301159)"
+         id="g4074">
+        <g
+           id="g4076" />
+      </g>
+    </g>
+    <rect
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+       y="466.81201"
+       x="694.18231"
+       height="11.547035"
+       width="4"
+       id="rect4080"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4082"
+       width="4"
+       height="11.547035"
+       x="-59.179939"
+       y="-838.04956"
+       transform="matrix(0.8660254,-0.5,-0.5,-0.8660254,0,0)" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4084"
+       width="4"
+       height="11.547035"
+       x="311.06644"
+       y="749.40326"
+       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+    <rect
+       transform="matrix(-0.79034206,-0.61266583,0.61266583,-0.79034206,0,0)"
+       y="-392.44275"
+       x="-725.72974"
+       height="9.4862185"
+       width="3.9696655"
+       id="rect4086"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4092"
+       width="4"
+       height="10"
+       x="259.88562"
+       y="777.24512"
+       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4104"
+       width="3.9696655"
+       height="9.4862185"
+       x="-188.30161"
+       y="-809.05212"
+       transform="matrix(0.79034206,-0.61266583,-0.61266583,-0.79034206,0,0)" />
+    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4106"
+       width="3.9696655"
+       height="9.4862185"
+       x="196.16544"
+       y="796.80688"
+       transform="matrix(-0.79034206,0.61266583,0.61266583,0.79034206,0,0)" />
+    <rect
+       transform="matrix(0.79034206,0.61266583,-0.61266583,0.79034206,0,0)"
+       y="380.19733"
+       x="733.59357"
+       height="9.4862185"
+       width="3.9696655"
+       id="rect4108"
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g8372"
+       transform="matrix(0.62499999,0,0,0.62499999,165.375,134.01085)"
+       inkscape:export-filename="/home/vjrj/proyectos/sync/kune-wp-plugin/images/src/kune-icon20.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path22120-4"
+         d="m 444.28093,328.64303 20.18621,10.28467"
+         style="color:#000000;fill:none;stroke:#777777;stroke-width:6.56186056;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path22122-2"
+         d="m 444.29005,354.0271 10.29769,-20.16038"
+         style="color:#000000;fill:none;stroke:#777777;stroke-width:6.56185961;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path22124-1"
+         d="m 449.53297,343.79672 20.1861,10.28461"
+         style="color:#000000;fill:none;stroke:#777777;stroke-width:6.56186008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path22126-2"
+         d="m 459.42115,348.82231 10.29778,-20.16055"
+         style="color:#000000;fill:none;stroke:#777777;stroke-width:6.56185913;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path22128-3"
+         d="m 461.0357,337.13069 3.47674,1.77136"
+         style="color:#000000;fill:none;stroke:#777777;stroke-width:6.5618577;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="467.58533"
+       y="349.30072"
+       id="text11067-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="467.58533"
+         y="349.30072"
+         id="tspan11075-1">wordpress plugin</tspan></text>
   </g>
 </svg>
