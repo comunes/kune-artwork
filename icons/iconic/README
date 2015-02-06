@@ -1,3 +1,6 @@
-TTF generated in: http://onlinefontconverter.com/
-cp iconsfont.ttf /home/vjrj/proyectos/dev/kune-git//src/main/java/cc/kune/common/client/resources/fonts/kune/iconsfont.ttf
-cp iconsfont.ttf /home/vjrj/.local/share/fonts/iconsfont.ttf
+TTF generated in: http://onlinefontconverter.com/ or http://www.freefontconverter.com/
+cp iconsfont.ttf $KUNE_HOME/src/main/java/cc/kune/common/client/resources/fonts/kune/iconsfont.ttf
+cp iconsfont.ttf ~/.local/share/fonts/iconsfont.ttf
+
+KuneIcon Enum generation
+grep label iconsfont.svg | cut -d"\"" -f 2 | sed 's/-/:/' | awk -F ":" '{if (length($1) == 1) {printf "%s('\''%s'\''),\n", toupper($2), $1}}' | sed 's/-/_/g'
